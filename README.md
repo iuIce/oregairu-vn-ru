@@ -6,4 +6,4 @@
 
 Сайт для скачивания русского перевода визуальных новелл Oregairu.
 
-https://iulce.github.io/oregairu-vn-ru/
+https://iuice.github.io/oregairu-vn-ru/
